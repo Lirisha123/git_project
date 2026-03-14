@@ -179,7 +179,8 @@ These insights help developers **evaluate repository activity and collaboration 
 # 👩‍💻 Author
 
 **Lirisha Reddy**
-Interested in AI-powered developer tools and intelligent analytics systems.
+
+
 
 ---
 
